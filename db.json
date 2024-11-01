@@ -1,0 +1,16 @@
+{
+  "etudiants": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "date": "2000-05-15",
+      "note": 15
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "date": "2001-09-10",
+      "note": 17
+    }
+  ]
+}
